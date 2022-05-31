@@ -6,7 +6,7 @@
  ### 🌈 &nbsp;About Me
 
 &nbsp;&nbsp;&nbsp;👩🏻‍💻 &nbsp;Frontend Engineer \
-&nbsp;&nbsp;&nbsp;📺 &nbsp;Previously at [Samsung Electronics](https://www.samsung.com/).\
+&nbsp;&nbsp;&nbsp;📺 &nbsp;Previously at ![Samsung](https://img.shields.io/badge/Samsung-%231428A0.svg?style=for-the-badge&logo=samsung&logoColor=white)\
 &nbsp;&nbsp;&nbsp;:lipstick: &nbsp;Passionate with the makeup industry and CSS.\
 &nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently building my portfolio, blog, and learning [React](https://beta.reactjs.org/).\
 &nbsp;&nbsp;&nbsp;:rainbow_flag: &nbsp;Part of the LGBTQ+ community.\
