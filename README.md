@@ -1,5 +1,5 @@
 
-# Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
+# Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px" width="30px"> 
 
   ![tommiebanner](https://user-images.githubusercontent.com/49788015/169161042-fbfddf4c-8dd2-4c42-8a2b-e2a941769a57.jpeg)
 
