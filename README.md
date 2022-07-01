@@ -10,7 +10,7 @@
 &nbsp;&nbsp;&nbsp;:lipstick: &nbsp;Passionate with the makeup industry and CSS.\
 &nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently building my portfolio, blog, and learning [React](https://beta.reactjs.org/).\
 &nbsp;&nbsp;&nbsp;:rainbow_flag: &nbsp;Part of the LGBTQ+ community.\
-&nbsp;&nbsp;&nbsp;:transgender_flag: &nbsp;Aims to bring more folks who identify as female, nonbinary, people of color, and LGBTQ+ in tech.
+&nbsp;&nbsp;&nbsp;:transgender_flag: &nbsp;Aims to bring more folks who identify as female, non-binary, people of color, and LGBTQ+ in tech.
 
 
 <p align="center">
