@@ -5,11 +5,11 @@
 
  ### 🌈 &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;👩🏻‍💻 &nbsp;Frontend Engineer \
-&nbsp;&nbsp;&nbsp;📺 &nbsp;Previously at ![Samsung](https://img.shields.io/badge/Samsung-%231428A0.svg?style=for-the-badge&logo=samsung&logoColor=white)\
+&nbsp;&nbsp;&nbsp;👩🏻‍💻 &nbsp;Web Developer \
+&nbsp;&nbsp;&nbsp;⚡ &nbsp;Previously at [Samsung Electronics](https://www.samsung.com/us/about-us/our-business/) \
 &nbsp;&nbsp;&nbsp;:lipstick: &nbsp;Passionate with the makeup industry and CSS.\
 &nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently building my portfolio, blog, and learning [React](https://beta.reactjs.org/).\
-&nbsp;&nbsp;&nbsp;:rainbow_flag: &nbsp;Part of the LGBTQ+ community.\
+&nbsp;&nbsp;&nbsp;:rainbow_flag: &nbsp;Pronouns: They / Them / Theirs\
 &nbsp;&nbsp;&nbsp;:transgender_flag: &nbsp;Aims to bring more folks who identify as female, non-binary, people of color, and LGBTQ+ in tech.
 
 
@@ -34,6 +34,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
 
 <!-- 
 https://github.com/Ileriayo/markdown-badges
@@ -48,7 +49,6 @@ How to comment in ReadMe
   <summary><b>:brain: &nbsp;To be learned:</b></summary>
   <br/>
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)&nbsp;
