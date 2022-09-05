@@ -11,7 +11,7 @@
 &nbsp;&nbsp;&nbsp;:rainbow_flag: &nbsp;Pronouns: They / Them / Theirs \
 &nbsp;&nbsp;&nbsp;:transgender_flag: &nbsp;Advocate for LGBTQ+ in tech \
 &nbsp;&nbsp;&nbsp;⚡ &nbsp;Previously at [Samsung Electronics](https://www.samsung.com/us/about-us/our-business/) \
-&nbsp;&nbsp;&nbsp;:lipstick: &nbsp;When I'm not coding, I look up makeup, skincare, and hair products \
+&nbsp;&nbsp;&nbsp;:lipstick: &nbsp;When I'm not coding, I try makeup, skincare, and hair products \
 &nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently building my portfolio, blog, and learning [React](https://beta.reactjs.org/).
 
 ---
