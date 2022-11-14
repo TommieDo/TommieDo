@@ -1,7 +1,7 @@
 
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px" width="30px"> 
-  
-![tommiebanner](https://user-images.githubusercontent.com/49788015/183550221-34ed270c-2214-40c1-b21b-07d0b90a6f61.jpg)
+
+![tommiebanner](https://user-images.githubusercontent.com/49788015/201681330-cf65ceb2-75de-4cde-a933-6414bd192777.png)
 
 ---
 
