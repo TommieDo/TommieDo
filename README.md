@@ -9,7 +9,7 @@
 
 &nbsp;&nbsp;&nbsp;👩🏻‍💻 &nbsp;Web Developer \
 &nbsp;&nbsp;&nbsp;:rainbow_flag: &nbsp;Pronouns: She/They \
-&nbsp;&nbsp;&nbsp;:transgender_flag: &nbsp;Advocate for LGBTQ+ in tech \
+&nbsp;&nbsp;&nbsp;:transgender_flag: &nbsp;Advocate for LGBTQI+ in tech \
 &nbsp;&nbsp;&nbsp;⚡ &nbsp;Previously at [Samsung Electronics](https://www.samsung.com/us/about-us/our-business/) \
 &nbsp;&nbsp;&nbsp;:lipstick: &nbsp;When I'm not coding, I try makeup, skincare, and hair products. \
 &nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently building my portfolio, and learning [React.js](https://beta.reactjs.org/)
