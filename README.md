@@ -5,7 +5,7 @@
 
 ---
 
- ### 🌈 &nbsp;Here's a few things about me:
+ ### 🌈 &nbsp;Get to know me:
 
 &nbsp;&nbsp;&nbsp;👩🏻‍💻 &nbsp;Web Developer \
 &nbsp;&nbsp;&nbsp;:rainbow_flag: &nbsp;Pronouns: She/They \
