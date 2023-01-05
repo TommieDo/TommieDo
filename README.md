@@ -8,7 +8,7 @@
  ### 🌈 &nbsp;Get to know me:
 
 &nbsp;&nbsp;&nbsp;👩🏻‍💻 &nbsp;Web Developer \
-&nbsp;&nbsp;&nbsp;:rainbow_flag: &nbsp;Pronouns: She/They \
+&nbsp;&nbsp;&nbsp;:rainbow_flag: &nbsp;Pronouns: She/Her, They/Them \
 &nbsp;&nbsp;&nbsp;:transgender_flag: &nbsp;Advocate for LGBTQIA+ in tech \
 &nbsp;&nbsp;&nbsp;⚡ &nbsp;Previously at [Samsung Electronics](https://www.samsung.com/us/about-us/our-business/) \
 &nbsp;&nbsp;&nbsp;:lipstick: &nbsp;When I'm not coding, I try out new makeup, skincare products, and hair products. \
