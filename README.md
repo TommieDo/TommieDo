@@ -51,7 +51,7 @@ How to comment in ReadMe
 -->
 
 <details>
-  <summary><b>🌠 &nbsp;Tech wishlist </b></summary>
+  <summary><b>🌠 &nbsp;Tech wishlist</b></summary>
   <br/>
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
