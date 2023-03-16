@@ -12,7 +12,7 @@
 &nbsp;&nbsp;&nbsp;:transgender_flag: &nbsp;Advocate for LGBTQIA+ in tech \
 &nbsp;&nbsp;&nbsp;⚡ &nbsp;Previously at [Samsung Electronics](https://www.samsung.com/us/about-us/our-business/) \
 &nbsp;&nbsp;&nbsp;:lipstick: &nbsp;When I'm not coding, I enjoy trying out new makeup, skincare, and hair products \
-&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently building my portfolio, and constantly learning about what the Web has to offer.
+&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently building my portfolio, and learning everyday about what the Web has to offer.
 
 ---
 
