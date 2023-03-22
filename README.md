@@ -51,7 +51,7 @@ How to comment in ReadMe
 -->
 
 <details>
-  <summary><b>🌠 &nbsp;Techs to learn</b></summary>
+  <summary><b>🌠 &nbsp;Techs I'd like to learn</b></summary>
   <br/>
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
