@@ -17,7 +17,7 @@
 ---
 
 <p align="center">
-  <a href="mailto:TommieNg@duck.com?subject=Hi%20Tommie%20Nguyen"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:TommieNg@duck.com?subject=Hi%20Tommie%20Do"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.twitter.com/Tommie_Do"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.polywork.com/TommieDo"><img src="https://img.shields.io/badge/Polywork-543DE0?style=for-the-badge&logo=polywork&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
