@@ -7,11 +7,11 @@
 
  ### 🌈 &nbsp;Get to know me:
 
-&nbsp;&nbsp;&nbsp;:woman_technologist: &nbsp;React Web Developer \
-&nbsp;&nbsp;&nbsp;:rainbow_flag: &nbsp;Advocate for LGBTQIA+ in tech \
+&nbsp;&nbsp;&nbsp;👩🏻‍💻 &nbsp;React Web Developer \
+&nbsp;&nbsp;&nbsp;🏳️‍🌈 &nbsp;Advocate for LGBTQIA+ in tech \
 &nbsp;&nbsp;&nbsp;⚡ &nbsp;Previously at [Samsung Electronics](https://www.samsung.com/us/about-us/our-business/) \
-&nbsp;&nbsp;&nbsp;:lipstick: &nbsp;When I'm not coding, I enjoy trying out new makeup, skincare, and hair products \
-&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently building my portfolio, and learning everyday about what the Web has to offer.
+&nbsp;&nbsp;&nbsp;💄 &nbsp;When I'm not coding, I enjoy trying out new makeup, skincare, and hair products \
+&nbsp;&nbsp;&nbsp;✍🏼 &nbsp;Currently building my portfolio, and learning everyday about what the Web has to offer.
 
 ---
 
