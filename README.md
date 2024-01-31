@@ -9,7 +9,7 @@
 
 &nbsp;&nbsp;&nbsp;👩🏻‍💻 &nbsp;React Web Developer \
 &nbsp;&nbsp;&nbsp;🏳️‍🌈 &nbsp;Advocate for LGBTQIA+ in tech \
-&nbsp;&nbsp;&nbsp;⚡ &nbsp;Previously at [Samsung Electronics](https://www.samsung.com/us/about-us/our-business/) \
+&nbsp;&nbsp;&nbsp;⚡ &nbsp;Previously at Samsung \
 &nbsp;&nbsp;&nbsp;💄 &nbsp;When I'm not coding, I enjoy trying out new makeup and skincare products. \
 &nbsp;&nbsp;&nbsp;✍🏼 &nbsp;Currently building my blog, and learning everyday about what the Web has to offer.
 
