@@ -11,7 +11,7 @@
 &nbsp;&nbsp;&nbsp;🏳️‍🌈 &nbsp;Advocate for LGBTQIA+ in tech \
 &nbsp;&nbsp;&nbsp;⚡ &nbsp;Previously at Samsung \
 &nbsp;&nbsp;&nbsp;💄 &nbsp;When I'm not coding, I enjoy trying out new makeup and skincare products. \
-&nbsp;&nbsp;&nbsp;✍🏼 &nbsp;Currently building my blog, and learning everyday about what the Web has to offer.
+&nbsp;&nbsp;&nbsp;✍🏼 &nbsp;Currently building my blog, and learning everyday about what the Web and AWS has to offer.
 
 ---
 
