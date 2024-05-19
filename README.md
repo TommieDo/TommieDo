@@ -10,7 +10,7 @@
 &nbsp;&nbsp;&nbsp;👩🏻‍💻 &nbsp;React Web Developer \
 &nbsp;&nbsp;&nbsp;🏳️‍🌈 &nbsp;Advocate for LGBTQIA+ in tech \
 &nbsp;&nbsp;&nbsp;⚡ &nbsp;Previously at Samsung \
-&nbsp;&nbsp;&nbsp;💄 &nbsp;When I'm not coding, I enjoy trying out new makeup and skincare products. \
+&nbsp;&nbsp;&nbsp;🍵 &nbsp;I love going to coffee shops to enjoy a delicious matcha latte while working on my coding projects. \
 &nbsp;&nbsp;&nbsp;✍🏼 &nbsp;Currently enhancing my blog, learning what the Web has to offer, and hoping to share with all of you.
 
 ---
