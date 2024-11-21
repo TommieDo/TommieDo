@@ -9,7 +9,7 @@
 
 &nbsp;&nbsp;&nbsp;👩🏻‍💻 &nbsp;Web3 Frontend Developer \
 &nbsp;&nbsp;&nbsp;🏳️‍🌈 &nbsp;Advocate for LGBTQIA+ in tech \
-&nbsp;&nbsp;&nbsp;📺 &nbsp;Previously at Samsung Electronics \
+&nbsp;&nbsp;&nbsp;📺 &nbsp;Previously at Samsung \
 &nbsp;&nbsp;&nbsp;🍵 &nbsp;I love going to coffee shops to enjoy a cup of matcha latte while working on my coding projects. \
 &nbsp;&nbsp;&nbsp;✍🏼 &nbsp;Currently working on my website, learning what Web3 has to offer, to be able to share with all of you.
 
